@@ -1,4 +1,4 @@
-📝 Text Editor History Engine (C++)
+📝 ChronoGraph CLI (C++)
 A backend-first text editing engine that supports non-linear undo/redo using a tree-based history model, allowing branching timelines instead of a single linear edit history.
 This project focuses on core computer science concepts such as data structures, memory ownership, immutability, and system design, independent of any graphical interface.
 
