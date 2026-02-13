@@ -4,7 +4,7 @@ This project focuses on core computer science concepts such as data structures, 
 
 🚀 Motivation
 While conventional text engines use linear memory and has the ability to undo/redo, 
-it lacks the ability to retrace old branches. This prompted me develop an engine that could store all mutations/edits and not lose old drafts or ideas the user may have.
+it lacks the ability to retrace old branches. This prompted me to develop an engine that could store all mutations/edits and not lose old drafts or ideas the user may have.
 While text engines are not a new concept, this project explores an alternative history model that preserves branching ideas rather than discarding them.
 
 🧠 Core Concepts
